@@ -1,0 +1,6 @@
+__pycache__/
+data/*.gz
+data/*.txt
+data/ext/*.gz
+data/ext/*.txt
+data/ext/GPL18990_symbols.csv

@@ -1,0 +1,5 @@
+model,n,acc,macroF1,QWK,stageMAE,severe
+Majority class,109,0.367,0.179,0.0,0.954,35
+"Age + sex, multinomial",109,0.431,0.432,0.143,0.771,22
+"Age + sex, ordinal",109,0.339,0.219,-0.01,0.697,4
+"Age only, ordinal",109,0.312,0.159,0.0,0.688,0

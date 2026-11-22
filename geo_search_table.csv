@@ -1,0 +1,23 @@
+accession,platform,samples,content,decision,reason
+GSE130823,GPL17077,94,"Gastritis, LGIN, HGIN, early intestinal-type gastric cancer (paired biopsies)",included,Staged LGIN/HGIN/EGC lesions
+GSE55696,GPL6480,77,"Chronic gastritis, LGIN, HGIN, early gastric cancer",included,Staged LGIN/HGIN/EGC lesions
+GSE87666,GPL17077,22,"LGIN, HGIN, early gastric cancer",included,Staged LGIN/HGIN/EGC lesions (12 samples later found to duplicate GSE130823)
+GSE83389,GPL6887;GPL5826,83,"Multifocal atrophic gastritis, intestinal metaplasia, dysplasia (Hispanic cohort)",excluded,Dysplasia not graded into LGIN/HGIN; no early cancer
+GSE69146,GPL6887;GPL5826,86,SuperSeries of GSE69144/GSE69145 (CD44 study),excluded,SuperSeries; no LGIN/HGIN/EGC labels
+GSE69144,GPL5826,78,"Multifocal atrophic gastritis cohort followed 6 years (baseline and follow-up)",excluded,Earlier cascade stages; no LGIN/HGIN/EGC labels
+GSE78523,GPL18990,45,"Healthy mucosa; intestinal metaplasia that did or did not progress to cancer",excluded (main analysis),No LGIN/HGIN/EGC labels; candidate independent check of the panel-size effect
+GSE106656,GPL6244,21,"Follicular gastritis, chronic gastritis, intestinal metaplasia",excluded,Earlier cascade stages only
+GSE116312,GPL6244,13,"Follicular gastritis, chronic atrophic gastritis, gastric cancer",excluded,No intraepithelial neoplasia; n=13
+GSE111762,GPL15314,13,"Normal mucosa, atrophic gastritis, gastric cancer",excluded,No intraepithelial neoplasia; n=13
+GSE160116,GPL570,14,Intestinal metaplasia only,excluded,Single lesion type
+GSE27411,GPL6255,18,"H. pylori-negative, H. pylori gastritis, corpus atrophic gastritis",excluded,Earlier cascade stages only
+GSE60662,GPL13497,16,"H. pylori gastritis, intestinal metaplasia, uninfected controls",excluded,Earlier cascade stages only
+GSE47797,GPL17077;GPL13497,24,SuperSeries (H. pylori and ATM; biopsies and cell lines),excluded,No neoplasia staging
+GSE60661,GPL17077,8,Gastric cell lines,excluded,Cell lines
+GSE112369,GPL15207,62,"Gastric tumour, normal and metaplasia organoids",excluded,Organoids
+GSE246474,GPL23572;GPL13497,4,Gastric organoids expressing CagA,excluded,Organoids
+GSE107433,GPL570,8,Gastric cancer cell lines,excluded,Cell lines
+GSE64894,GPL570,19,Barrett's oesophagus and cardia stem cells,excluded,Not gastric precancer tissue
+GSE49292,GPL5175,9,Barrett's oesophagus stem cells,excluded,Not gastric precancer tissue
+GSE2669,GPL2048,124,Gastric cancers,excluded,Cancer only
+GSE2444,GPL1930,172,Oesophageal and gastric adenocarcinomas,excluded,Cancer only

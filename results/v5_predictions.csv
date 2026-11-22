@@ -1,0 +1,437 @@
+y,p,grp,model
+0,0,GPL17077,Ordinal
+0,0,GPL17077,Ordinal
+0,0,GPL17077,Ordinal
+0,0,GPL17077,Ordinal
+0,0,GPL17077,Ordinal
+0,0,GPL17077,Ordinal
+0,0,GPL17077,Ordinal
+0,1,GPL17077,Ordinal
+0,1,GPL17077,Ordinal
+0,1,GPL17077,Ordinal
+0,0,GPL17077,Ordinal
+0,0,GPL17077,Ordinal
+0,1,GPL17077,Ordinal
+0,1,GPL17077,Ordinal
+0,1,GPL17077,Ordinal
+0,1,GPL17077,Ordinal
+0,1,GPL17077,Ordinal
+1,1,GPL17077,Ordinal
+1,1,GPL17077,Ordinal
+1,0,GPL17077,Ordinal
+1,1,GPL17077,Ordinal
+1,0,GPL17077,Ordinal
+1,1,GPL17077,Ordinal
+1,0,GPL17077,Ordinal
+1,1,GPL17077,Ordinal
+1,1,GPL17077,Ordinal
+1,1,GPL17077,Ordinal
+1,0,GPL17077,Ordinal
+1,1,GPL17077,Ordinal
+1,1,GPL17077,Ordinal
+1,1,GPL17077,Ordinal
+2,1,GPL17077,Ordinal
+2,1,GPL17077,Ordinal
+2,1,GPL17077,Ordinal
+2,2,GPL17077,Ordinal
+2,1,GPL17077,Ordinal
+2,2,GPL17077,Ordinal
+2,1,GPL17077,Ordinal
+2,1,GPL17077,Ordinal
+2,1,GPL17077,Ordinal
+2,1,GPL17077,Ordinal
+2,2,GPL17077,Ordinal
+2,2,GPL17077,Ordinal
+2,2,GPL17077,Ordinal
+2,2,GPL17077,Ordinal
+2,1,GPL17077,Ordinal
+2,2,GPL17077,Ordinal
+0,1,GPL17077,Ordinal
+1,1,GPL17077,Ordinal
+0,2,GPL17077,Ordinal
+1,1,GPL17077,Ordinal
+0,1,GPL17077,Ordinal
+1,1,GPL17077,Ordinal
+0,1,GPL17077,Ordinal
+0,1,GPL17077,Ordinal
+1,2,GPL17077,Ordinal
+2,1,GPL17077,Ordinal
+0,0,GPL6480,Ordinal
+0,0,GPL6480,Ordinal
+0,0,GPL6480,Ordinal
+0,0,GPL6480,Ordinal
+0,1,GPL6480,Ordinal
+0,0,GPL6480,Ordinal
+0,1,GPL6480,Ordinal
+0,1,GPL6480,Ordinal
+0,0,GPL6480,Ordinal
+0,0,GPL6480,Ordinal
+0,1,GPL6480,Ordinal
+0,0,GPL6480,Ordinal
+0,1,GPL6480,Ordinal
+0,1,GPL6480,Ordinal
+0,1,GPL6480,Ordinal
+0,0,GPL6480,Ordinal
+0,1,GPL6480,Ordinal
+0,0,GPL6480,Ordinal
+1,1,GPL6480,Ordinal
+1,0,GPL6480,Ordinal
+1,2,GPL6480,Ordinal
+1,2,GPL6480,Ordinal
+1,1,GPL6480,Ordinal
+1,1,GPL6480,Ordinal
+1,0,GPL6480,Ordinal
+1,1,GPL6480,Ordinal
+1,1,GPL6480,Ordinal
+1,2,GPL6480,Ordinal
+1,2,GPL6480,Ordinal
+1,1,GPL6480,Ordinal
+1,1,GPL6480,Ordinal
+1,2,GPL6480,Ordinal
+1,1,GPL6480,Ordinal
+1,0,GPL6480,Ordinal
+2,1,GPL6480,Ordinal
+2,0,GPL6480,Ordinal
+2,1,GPL6480,Ordinal
+2,2,GPL6480,Ordinal
+2,2,GPL6480,Ordinal
+2,2,GPL6480,Ordinal
+2,2,GPL6480,Ordinal
+2,2,GPL6480,Ordinal
+2,2,GPL6480,Ordinal
+2,1,GPL6480,Ordinal
+2,2,GPL6480,Ordinal
+2,2,GPL6480,Ordinal
+2,2,GPL6480,Ordinal
+2,2,GPL6480,Ordinal
+2,2,GPL6480,Ordinal
+2,1,GPL6480,Ordinal
+2,1,GPL6480,Ordinal
+2,2,GPL6480,Ordinal
+0,0,GPL17077,Multinomial
+0,0,GPL17077,Multinomial
+0,0,GPL17077,Multinomial
+0,0,GPL17077,Multinomial
+0,0,GPL17077,Multinomial
+0,0,GPL17077,Multinomial
+0,0,GPL17077,Multinomial
+0,1,GPL17077,Multinomial
+0,1,GPL17077,Multinomial
+0,0,GPL17077,Multinomial
+0,0,GPL17077,Multinomial
+0,0,GPL17077,Multinomial
+0,0,GPL17077,Multinomial
+0,2,GPL17077,Multinomial
+0,2,GPL17077,Multinomial
+0,0,GPL17077,Multinomial
+0,2,GPL17077,Multinomial
+1,2,GPL17077,Multinomial
+1,0,GPL17077,Multinomial
+1,0,GPL17077,Multinomial
+1,1,GPL17077,Multinomial
+1,1,GPL17077,Multinomial
+1,1,GPL17077,Multinomial
+1,1,GPL17077,Multinomial
+1,1,GPL17077,Multinomial
+1,1,GPL17077,Multinomial
+1,0,GPL17077,Multinomial
+1,0,GPL17077,Multinomial
+1,0,GPL17077,Multinomial
+1,1,GPL17077,Multinomial
+1,2,GPL17077,Multinomial
+2,2,GPL17077,Multinomial
+2,2,GPL17077,Multinomial
+2,0,GPL17077,Multinomial
+2,2,GPL17077,Multinomial
+2,2,GPL17077,Multinomial
+2,2,GPL17077,Multinomial
+2,0,GPL17077,Multinomial
+2,2,GPL17077,Multinomial
+2,1,GPL17077,Multinomial
+2,2,GPL17077,Multinomial
+2,2,GPL17077,Multinomial
+2,2,GPL17077,Multinomial
+2,2,GPL17077,Multinomial
+2,2,GPL17077,Multinomial
+2,2,GPL17077,Multinomial
+2,2,GPL17077,Multinomial
+0,1,GPL17077,Multinomial
+1,2,GPL17077,Multinomial
+0,2,GPL17077,Multinomial
+1,2,GPL17077,Multinomial
+0,2,GPL17077,Multinomial
+1,2,GPL17077,Multinomial
+0,2,GPL17077,Multinomial
+0,0,GPL17077,Multinomial
+1,2,GPL17077,Multinomial
+2,0,GPL17077,Multinomial
+0,0,GPL6480,Multinomial
+0,0,GPL6480,Multinomial
+0,0,GPL6480,Multinomial
+0,0,GPL6480,Multinomial
+0,2,GPL6480,Multinomial
+0,0,GPL6480,Multinomial
+0,0,GPL6480,Multinomial
+0,2,GPL6480,Multinomial
+0,0,GPL6480,Multinomial
+0,0,GPL6480,Multinomial
+0,2,GPL6480,Multinomial
+0,1,GPL6480,Multinomial
+0,1,GPL6480,Multinomial
+0,0,GPL6480,Multinomial
+0,0,GPL6480,Multinomial
+0,0,GPL6480,Multinomial
+0,0,GPL6480,Multinomial
+0,0,GPL6480,Multinomial
+1,1,GPL6480,Multinomial
+1,0,GPL6480,Multinomial
+1,2,GPL6480,Multinomial
+1,2,GPL6480,Multinomial
+1,2,GPL6480,Multinomial
+1,2,GPL6480,Multinomial
+1,0,GPL6480,Multinomial
+1,1,GPL6480,Multinomial
+1,1,GPL6480,Multinomial
+1,2,GPL6480,Multinomial
+1,2,GPL6480,Multinomial
+1,1,GPL6480,Multinomial
+1,1,GPL6480,Multinomial
+1,2,GPL6480,Multinomial
+1,0,GPL6480,Multinomial
+1,1,GPL6480,Multinomial
+2,1,GPL6480,Multinomial
+2,0,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+2,2,GPL6480,Multinomial
+0,0,GPL17077,Random forest
+0,0,GPL17077,Random forest
+0,0,GPL17077,Random forest
+0,1,GPL17077,Random forest
+0,0,GPL17077,Random forest
+0,0,GPL17077,Random forest
+0,0,GPL17077,Random forest
+0,1,GPL17077,Random forest
+0,2,GPL17077,Random forest
+0,1,GPL17077,Random forest
+0,1,GPL17077,Random forest
+0,0,GPL17077,Random forest
+0,0,GPL17077,Random forest
+0,0,GPL17077,Random forest
+0,1,GPL17077,Random forest
+0,0,GPL17077,Random forest
+0,1,GPL17077,Random forest
+1,2,GPL17077,Random forest
+1,0,GPL17077,Random forest
+1,0,GPL17077,Random forest
+1,1,GPL17077,Random forest
+1,1,GPL17077,Random forest
+1,1,GPL17077,Random forest
+1,1,GPL17077,Random forest
+1,1,GPL17077,Random forest
+1,1,GPL17077,Random forest
+1,0,GPL17077,Random forest
+1,1,GPL17077,Random forest
+1,1,GPL17077,Random forest
+1,1,GPL17077,Random forest
+1,2,GPL17077,Random forest
+2,1,GPL17077,Random forest
+2,2,GPL17077,Random forest
+2,2,GPL17077,Random forest
+2,2,GPL17077,Random forest
+2,2,GPL17077,Random forest
+2,2,GPL17077,Random forest
+2,0,GPL17077,Random forest
+2,2,GPL17077,Random forest
+2,2,GPL17077,Random forest
+2,2,GPL17077,Random forest
+2,2,GPL17077,Random forest
+2,1,GPL17077,Random forest
+2,2,GPL17077,Random forest
+2,2,GPL17077,Random forest
+2,0,GPL17077,Random forest
+2,2,GPL17077,Random forest
+0,0,GPL17077,Random forest
+1,1,GPL17077,Random forest
+0,2,GPL17077,Random forest
+1,2,GPL17077,Random forest
+0,2,GPL17077,Random forest
+1,0,GPL17077,Random forest
+0,2,GPL17077,Random forest
+0,0,GPL17077,Random forest
+1,1,GPL17077,Random forest
+2,0,GPL17077,Random forest
+0,0,GPL6480,Random forest
+0,0,GPL6480,Random forest
+0,0,GPL6480,Random forest
+0,0,GPL6480,Random forest
+0,1,GPL6480,Random forest
+0,0,GPL6480,Random forest
+0,0,GPL6480,Random forest
+0,2,GPL6480,Random forest
+0,0,GPL6480,Random forest
+0,0,GPL6480,Random forest
+0,2,GPL6480,Random forest
+0,0,GPL6480,Random forest
+0,1,GPL6480,Random forest
+0,0,GPL6480,Random forest
+0,0,GPL6480,Random forest
+0,0,GPL6480,Random forest
+0,0,GPL6480,Random forest
+0,1,GPL6480,Random forest
+1,1,GPL6480,Random forest
+1,0,GPL6480,Random forest
+1,2,GPL6480,Random forest
+1,2,GPL6480,Random forest
+1,2,GPL6480,Random forest
+1,2,GPL6480,Random forest
+1,1,GPL6480,Random forest
+1,1,GPL6480,Random forest
+1,1,GPL6480,Random forest
+1,2,GPL6480,Random forest
+1,2,GPL6480,Random forest
+1,1,GPL6480,Random forest
+1,1,GPL6480,Random forest
+1,2,GPL6480,Random forest
+1,1,GPL6480,Random forest
+1,0,GPL6480,Random forest
+2,1,GPL6480,Random forest
+2,0,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,1,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,2,GPL6480,Random forest
+2,2,GPL6480,Random forest
+0,0,GPL17077,XGBoost
+0,0,GPL17077,XGBoost
+0,0,GPL17077,XGBoost
+0,0,GPL17077,XGBoost
+0,0,GPL17077,XGBoost
+0,0,GPL17077,XGBoost
+0,0,GPL17077,XGBoost
+0,1,GPL17077,XGBoost
+0,0,GPL17077,XGBoost
+0,2,GPL17077,XGBoost
+0,2,GPL17077,XGBoost
+0,0,GPL17077,XGBoost
+0,0,GPL17077,XGBoost
+0,2,GPL17077,XGBoost
+0,2,GPL17077,XGBoost
+0,1,GPL17077,XGBoost
+0,1,GPL17077,XGBoost
+1,2,GPL17077,XGBoost
+1,0,GPL17077,XGBoost
+1,0,GPL17077,XGBoost
+1,1,GPL17077,XGBoost
+1,1,GPL17077,XGBoost
+1,1,GPL17077,XGBoost
+1,1,GPL17077,XGBoost
+1,1,GPL17077,XGBoost
+1,2,GPL17077,XGBoost
+1,1,GPL17077,XGBoost
+1,1,GPL17077,XGBoost
+1,0,GPL17077,XGBoost
+1,1,GPL17077,XGBoost
+1,2,GPL17077,XGBoost
+2,2,GPL17077,XGBoost
+2,0,GPL17077,XGBoost
+2,0,GPL17077,XGBoost
+2,2,GPL17077,XGBoost
+2,2,GPL17077,XGBoost
+2,2,GPL17077,XGBoost
+2,1,GPL17077,XGBoost
+2,2,GPL17077,XGBoost
+2,1,GPL17077,XGBoost
+2,2,GPL17077,XGBoost
+2,2,GPL17077,XGBoost
+2,1,GPL17077,XGBoost
+2,2,GPL17077,XGBoost
+2,2,GPL17077,XGBoost
+2,0,GPL17077,XGBoost
+2,2,GPL17077,XGBoost
+0,0,GPL17077,XGBoost
+1,2,GPL17077,XGBoost
+0,2,GPL17077,XGBoost
+1,0,GPL17077,XGBoost
+0,0,GPL17077,XGBoost
+1,0,GPL17077,XGBoost
+0,2,GPL17077,XGBoost
+0,0,GPL17077,XGBoost
+1,2,GPL17077,XGBoost
+2,0,GPL17077,XGBoost
+0,0,GPL6480,XGBoost
+0,0,GPL6480,XGBoost
+0,0,GPL6480,XGBoost
+0,0,GPL6480,XGBoost
+0,1,GPL6480,XGBoost
+0,0,GPL6480,XGBoost
+0,2,GPL6480,XGBoost
+0,2,GPL6480,XGBoost
+0,0,GPL6480,XGBoost
+0,0,GPL6480,XGBoost
+0,2,GPL6480,XGBoost
+0,0,GPL6480,XGBoost
+0,1,GPL6480,XGBoost
+0,0,GPL6480,XGBoost
+0,0,GPL6480,XGBoost
+0,0,GPL6480,XGBoost
+0,0,GPL6480,XGBoost
+0,0,GPL6480,XGBoost
+1,1,GPL6480,XGBoost
+1,0,GPL6480,XGBoost
+1,2,GPL6480,XGBoost
+1,2,GPL6480,XGBoost
+1,2,GPL6480,XGBoost
+1,2,GPL6480,XGBoost
+1,1,GPL6480,XGBoost
+1,1,GPL6480,XGBoost
+1,1,GPL6480,XGBoost
+1,2,GPL6480,XGBoost
+1,2,GPL6480,XGBoost
+1,1,GPL6480,XGBoost
+1,0,GPL6480,XGBoost
+1,0,GPL6480,XGBoost
+1,1,GPL6480,XGBoost
+1,1,GPL6480,XGBoost
+2,1,GPL6480,XGBoost
+2,0,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,1,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
+2,2,GPL6480,XGBoost
