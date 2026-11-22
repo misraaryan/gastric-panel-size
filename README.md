@@ -1,6 +1,6 @@
 # Gene panels for staging gastric precancerous lesions vs. random genes
 
-Code for: A. Misra, "Gene Panels for Staging Gastric Precancerous Lesions Rarely Beat Random
+Code for: A. Misra, "Gene Panels for Staging Gastric Pre-Cancerous Lesions Rarely Beat Random
 Genes or a Single Immune Score."
 
 ## Data
@@ -41,6 +41,12 @@ Run from the repository root with `python src/<script>.py`.
 
 Scripts `03`-`21` are from the earlier, non-deduplicated three-cohort analysis and are kept
 for reference.
+
+## Supplementary material
+
+`Supplementary_Material.xlsx` holds every result table behind the paper (cohorts, the 19
+duplicate pairs, models, published panels, size sweep, immune baselines, stability,
+GSE78523, ComBat, clinical baseline, sex probes, GEO search). The README sheet lists them.
 
 ## Requirements
 
