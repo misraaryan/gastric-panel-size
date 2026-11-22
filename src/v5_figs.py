@@ -6,16 +6,21 @@ plt.rcParams.update({"figure.facecolor":SURF,"axes.facecolor":SURF,"savefig.face
  "ytick.color":INK2,"xtick.labelsize":8,"ytick.labelsize":8,"legend.frameon":False,"legend.fontsize":7.5,"axes.spines.top":False,"axes.spines.right":False})
 # ---- Fig 1: duplicate evidence ----
 w=pd.read_csv("results/within_cohort_correlations.csv"); dup=pd.read_csv("results/duplicate_pairs.csv")
-fig,ax=plt.subplots(figsize=(3.5,2.3),dpi=300)
+fig,(ax,rg)=plt.subplots(2,1,figsize=(3.5,2.6),dpi=300,sharex=True,gridspec_kw={"height_ratios":[3,1.1],"hspace":0.08})
 bins=np.linspace(-0.5,1.0,61)
-ax.hist(w[w.kind=="different"].r,bins=bins,color=MUTED,alpha=0.6,label="same cohort, different patients (n=4,552)",density=True)
-for r in w[w.kind=="same"].r: ax.axvline(r,ymin=0,ymax=0.12,color=CAT[0],lw=0.8)
-ax.plot([],[],color=CAT[0],lw=0.8,label="same patient, different biopsy (n=50)")
-for r in dup.r: ax.axvline(r,ymin=0,ymax=0.3,color=CAT[1],lw=1.2)
-ax.plot([],[],color=CAT[1],lw=1.2,label="cross-cohort duplicate pairs (n=19)")
-ax.set_xlabel("Pearson correlation between two samples"); ax.set_ylabel("Density")
-ax.legend(loc="upper left",fontsize=6.5,handlelength=1.2); ax.set_xlim(-0.5,1.0)
-fig.tight_layout(); fig.savefig("figures/v5_fig1_duplicates.png",bbox_inches="tight"); plt.close()
+dif=w[w.kind=="different"].r; same=w[w.kind=="same"].r
+ax.hist(dif,bins=bins,color=MUTED,alpha=0.6,density=True)
+ax.axvline(dif.max(),color=INK2,lw=0.8,ls=":")
+ax.text(dif.max()+0.02,ax.get_ylim()[1]*0.9,f"max {dif.max():.2f}",fontsize=6.5,color=INK2,va="top")
+ax.set_ylabel("Density"); ax.tick_params(axis="x",length=0)
+ax.text(0.30,1.75,"same cohort,\ndifferent patients\n(n=4,552)",fontsize=6.5,color=INK2,va="top")
+for y,vals,col,lab in [(1,same,CAT[0],"same patient (n=50)"),(0,dup.r,CAT[1],"duplicates (n=19)")]:
+    rg.vlines(vals,y-0.32,y+0.32,color=col,lw=0.9)
+rg.set_yticks([1,0]); rg.set_yticklabels(["same patient\n(n=50)","cross-cohort\nduplicates (n=19)"],fontsize=6.5)
+rg.tick_params(axis="y",length=0); rg.set_ylim(-0.6,1.6); rg.spines["left"].set_visible(False)
+rg.axvline(dif.max(),color=INK2,lw=0.8,ls=":")
+rg.set_xlim(-0.5,1.0); rg.set_xlabel("Pearson correlation between two samples")
+fig.savefig("figures/v5_fig1_duplicates.png",bbox_inches="tight"); plt.close()
 # ---- Fig 2: size sweep, (a) precancer cohorts, (b) GSE78523 ----
 r=pd.read_csv("results/v5_sweep.csv"); x=r["size"].to_numpy(); imm=pd.read_csv("results/v5_immune_models.csv").set_index("model").loc["ESTIMATE immune","QWK"]
 e=pd.read_csv("results/v5_external_GSE78523.csv")
