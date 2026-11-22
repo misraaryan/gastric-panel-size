@@ -38,8 +38,8 @@ ax2.fill_between(xe,e.rand_mean-e.rand_sd,e.rand_mean+e.rand_sd,color=MUTED,alph
 ax2.plot(xe,e.rand_mean,lw=1.6,color=MUTED,marker="o",ms=3.5)
 ax2.plot(xe,e.ours,lw=1.8,color=CAT[0],marker="D",ms=4,zorder=5)
 ax2.set_title("(b) Independent cohort GSE78523 (n=45)",fontsize=8.5)
-for a_ in axs:
-    a_.set_xscale("log"); a_.set_xticks(x); a_.set_xticklabels([str(v) if v!=300 else "" for v in x]); a_.minorticks_off(); a_.set_xlabel("Panel size (genes)")
+for a_,xx in zip(axs,[x,xe]):
+    a_.set_xscale("log"); a_.set_xticks(xx); a_.set_xticklabels([str(v) for v in xx],fontsize=7); a_.minorticks_off(); a_.set_xlabel("Panel size (genes)")
 axs[0].set_ylabel("QWK (held out)"); axs[0].set_ylim(0,0.8)
 fig.legend(*axs[0].get_legend_handles_labels(),loc="lower center",ncol=4,fontsize=7,bbox_to_anchor=(0.5,-0.04))
 fig.tight_layout(rect=(0,0.07,1,1)); fig.savefig("figures/v5_fig2_sweep.png",bbox_inches="tight"); plt.close()

@@ -76,7 +76,7 @@ def emp_p(nullq,obs,nrep=NREP): return (1+(nullq>=obs).sum())/(1+nrep)
 PANELS={"Yi 2025":["IL6","FCGR3A","CCL3","CXCR4","CXCL9","CCL4","CCR1"],
  "Ji 2024":["PTPRC","PLEK","CD53","CD48","LCP1","HCLS1","IKZF1","BTK","VAV1"],
  "Jin 2022":["MYC","SOX2","CDX2","TBX3","KRT7","CDKN2A","MUC5AC"],
- "Rezaei 2021":["ITGAX","CCL14","ADHFE1","HOXB13"],
+ "Rezaei 2022":["ITGAX","CCL14","ADHFE1","HOXB13"],
  "Luu 2024":["SPP1","INHBA","MMP7","THBS2","FAP"],
  "FrontGenet 2025":["FCRL3","EFEMP1","ANKRD29","STOX2"]}
 old=pd.read_csv("results/matched_null_1000.csv").set_index("panel")
